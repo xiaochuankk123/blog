@@ -8,3 +8,10 @@
 废话不多说，从今天开始吧！
 
 2018.12.17
+
+---
+
+## javascript权威指南
+精读犀牛书，汇总精辟语句及关键词。
+
+[函数篇（每日更新中）](https://github.com/xiaochuankk123/blog/blob/master/javascript/1.%E5%87%BD%E6%95%B0.md)
